@@ -1,0 +1,25 @@
+This research offers key insights into how brain activity is shaped and refined as animals learn to repeat behaviors that evoke a feeling of pleasure. The findings also point to new strategies for targeting disorders characterized by abnormal repetitive behaviors, such as addiction and obsessive-compulsive disorder, or OCD.
+
+The study, led by researchers at Columbia University's Zuckerman Institute, the Champalimaud Centre for the Unknown and the University of California at Berkeley, was published today in Science.
+
+"It's no secret that we derive pleasure from doing things we enjoy, such as playing our favorite video game," said Rui Costa, DVM, PhD, the paper's senior author and the associate director and CEO of Columbia's Zuckerman Institute. "Today's results reveal that the brain learns which activity patterns lead to feel-good sensations, and reshapes itself to more efficiently reproduce those patterns."
+
+"This discovery can help explain how we learn by repetition, and can also inform studies of disorders such as addiction and OCD, in which the feedback loop that links an action to a reward gets thrown out of whack," he added.
+
+Normally, doing something enjoyable triggers neurons, a type of brain cell, to release a chemical called dopamine. This release causes that feel-good sensation, evoking the desire to repeat an action again and again. A prime example of this are video games.
+
+"When you move the game controller in exactly the right way to earn that high score, your brain remembers how it executed that action -- which neurons get switched on, and in what pattern -- so your brain can recreate that same move the next time you play," said Dr. Costa, who also a professor of neuroscience and neurology at Columbia University Irving Medical Center. "After repeated attempts, your brain gets better at recreating that pattern of neural activity, and you get better at the game."
+
+To the team, this fact then begged the question: Could the brain be trained to learn the right pattern of neural activity normally involved in experiencing something enjoyable, and then replay that pattern at will to trigger a dopamine release?
+
+In a series of experiments in mice, the researchers developed a computer program that connected the neural activity in the animals' brains to musical notes, so that when one group of neurons switched on, a corresponding musical note played. Different patterns of neural activity yielded different combinations of notes. And when neural-activity patterns triggered the right arrangement of musical notes (arbitrarily determined by a computer), the scientists manually released dopamine in the animals' brains.
+
+The mice quickly learned which musical arrangement that, when played, caused a dopamine release and the feel-good sensation. Their brains then began to rewire themselves to play that song more often, thereby triggering the pleasure hit of dopamine.
+
+"In essence, the mice learned to repeat the same pattern of brain activity that had been evoked previously by hearing those musical notes," said Vivek Athalye, a doctoral candidate at Champalimaud and the paper's co-first author.
+
+The researchers noted that these findings are a striking example of Thorndike's Law -- a long-held principle of psychology stating that actions that lead to positive reinforcement are repeated more frequently. However, these findings likely represent the first time that this principle has been directly observed in the brain.
+
+"In some ways, these results are entirely expected," said Dr. Costa. "It makes sense that the brain would mimic the feeling of reward it gets from an enjoyable experience by producing the corresponding pattern of neural activity. But it had never been tested."
+
+This research also has important implications for addiction and OCD.

@@ -1,0 +1,19 @@
+When you want to remember a phone number, you likely repeat the digits to yourself again and again. We unknowingly do something similar with our eyes to help us recall what we see and we do this more often when we're older, according to recently published findings in the Journal of Experimental Psychology: Human Perception and Performance.
+
+People's eyes move in a certain pattern when observing what's in front of them. When people try to hold that information in mind, they unwittingly move their eyes in the same pattern over and over again, even when looking at a blank screen.
+
+Researchers discovered that older adults naturally tap into this strategy to bolster memory when remembering becomes difficult, building upon their work in identifying the connection between what we see and how we remember. A better understanding of this tactic paves the way to developing eye training programs to boost recollection.
+
+The team used eyetracking technology to capture the eye movements of 40 younger and older adults (ages 18 to 27 and 63 to 84) as they completed a memory task. Each person was given a few seconds to memorize a set of objects on a screen. After time was up, participants were shown a blank screen for a short period of time, followed by another group of objects. Participants were asked to identify whether these were the same or different from the previous set. Researchers repeated this process with 144 different object groupings.
+
+Researchers found that when older adults were shown the blank screen, they unknowingly moved their eyes in the same pattern as when they first saw the objects, as if they were rehearsing. Older adults tapped into this "rehearsal strategy" at the beginning of the task, during the easier levels, while younger adults only used it during more difficult stages. Older adults using this strategy tested almost as well as younger adults.
+
+"The same way a person repeats the digits of a phone number to remember it, the eyes help the brain strengthen the memory by repeating the same pattern of eye movements," says Dr. Jennifer Ryan, the study's senior author, a senior scientist at Baycrest's Rotman Research Institute (RRI) and psychology and psychiatry professor at the University of Toronto.
+
+Scientists have known for a long time that as people grow older, their brain recruits alternate neural regions to help when certain areas naturally decline. For example, this happens when older adults are remembering information. This is the first time researchers have shown within older adults that the brain harnesses other motor processes, such as eye movements, to step in when the task becomes too difficult on its own.
+
+"It's as if older adults are using their eyes to create a 'motor trace' to compensate for memory declines during aging," says Jordana Wynn, lead author on the study and a graduate student at the RRI.
+
+"By understanding how we naturally use eye movements to compensate for declining areas of the brain, we could tap into this strategy as an intervention to boost memory performance among healthy older adults and adults with memory disorders," says Dr. Ryan.
+
+As next steps, the team will explore which features attract a person's eyes and whether certain aspects help or hinder memory.
